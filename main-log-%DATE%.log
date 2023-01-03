@@ -1,0 +1,2 @@
+2021-01-04T06:22:22.262Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T06:22:24.672Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn

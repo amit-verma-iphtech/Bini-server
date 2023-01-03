@@ -1,0 +1,26 @@
+# Dependencies
+node_modules
+/backup/
+# yarn error logs
+yarn-error.log
+
+# Environment varibales
+.env*
+!.env*.example
+
+# Code coverage
+coverage
+
+# Google authentication file
+gcpconfig.json
+
+# log files
+/log
+log.csv
+# temp files
+# /temporary-files
+yarn.lock
+.DS_Store
+**/.DS_Store
+log.csv
+.vercel

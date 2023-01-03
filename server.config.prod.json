@@ -1,0 +1,21 @@
+{
+  "apps": [
+    {
+      "name": "app",
+      "script": "src/index.js",
+      "instances": 1,
+      "autorestart": true,
+      "watch": false,
+      "time": true,
+      "env": {
+        "NODE_ENV": "production",
+        "MYSQL_USER": "uuh7few3caa0i2qd",
+        "MYSQL_PASSWORD": "ys5f75saa6afuk79",
+        "MYSQL_URL": "kz3txd1jlvyysrb7.chr7pe7iynqr.eu-west-1.rds.amazonaws.com",
+        "MYSQL_DB_NAME": "primary_app_db",
+        "STRIPE_PRIVATE_KEY_Inactive":"sk_test_51H0bJOCPFUxZ3AcVfFH9vGNVDTZPBrUDZ5IYIQ0Riy1A6xGoyxul6dX79po7UBd0Fo5kw7fkmtJHY4Ip55KdkcKq00Y5zw1nSJ",
+        "STRIPE_PRIVATE_KEY":"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"
+      }
+    }
+  ]
+}

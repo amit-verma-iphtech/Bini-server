@@ -1,0 +1,15 @@
+const opsDashboardConstants = {
+  LOAD_OBSERVATIONS: 'LOAD_OBSERVATIONS',
+  LOAD_ACTIONS: 'LOAD_ACTIONS',
+  RE_ASSIGN_OBSERVATIONS: 'RE_ASSIGN_OBSERVATIONS',
+  CHECK_IDLE: 'CHECK_IDLE',
+  PING: 'PING',
+  PONG: 'PONG',
+  TYPES: {
+    CALLBACK: 'CALLBACK',
+    CONNECTION: 'CONNECTION',
+    RECEIVED: 'RECEIVED',
+    SEND: 'SEND',
+  },
+};
+module.exports = opsDashboardConstants;

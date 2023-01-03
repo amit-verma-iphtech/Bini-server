@@ -1,0 +1,201 @@
+2021-01-04T07:42:37.963Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T07:42:40.402Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T07:44:37.299Z - error: ::1 - POST /v1/wa-chatbot/process-incoming-webhook 500 - 41.679 ms - message: waChatbotService.processChat is not a function message=::1 - POST /v1/wa-chatbot/process-incoming-webhook 500 - 41.679 ms - message: waChatbotService.processChat is not a function, level=error
+2021-01-04T07:46:19.674Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T07:46:22.053Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T07:46:36.330Z - info: ::1 - POST /v1/wa-chatbot/process-incoming-webhook - - - ms message=::1 - POST /v1/wa-chatbot/process-incoming-webhook - - - ms, level=info
+2021-01-04T07:47:02.106Z - info: ::1 - POST /v1/wa-chatbot/process-incoming-webhook - - - ms message=::1 - POST /v1/wa-chatbot/process-incoming-webhook - - - ms, level=info
+2021-01-04T07:47:15.491Z - info: ::1 - POST /v1/wa-chatbot/process-incoming-webhook - - - ms message=::1 - POST /v1/wa-chatbot/process-incoming-webhook - - - ms, level=info
+2021-01-04T07:47:28.550Z - info: ::1 - POST /v1/wa-chatbot/process-incoming-webhook - - - ms message=::1 - POST /v1/wa-chatbot/process-incoming-webhook - - - ms, level=info
+2021-01-04T07:48:14.051Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T07:48:16.363Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T07:48:18.681Z - info: ::1 - POST /v1/wa-chatbot/process-incoming-webhook 200 - 27.508 ms message=::1 - POST /v1/wa-chatbot/process-incoming-webhook 200 - 27.508 ms, level=info
+2021-01-04T07:52:34.162Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T07:52:36.494Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T07:52:41.677Z - info: ::1 - POST /v1/wa-chatbot/process-incoming-webhook 200 - 69.652 ms message=::1 - POST /v1/wa-chatbot/process-incoming-webhook 200 - 69.652 ms, level=info
+2021-01-04T22:36:17.956Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T22:36:20.430Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T22:36:24.084Z - error: ::1 - POST /v1/transaction/checkout 404 - 38.613 ms - message: Not found message=::1 - POST /v1/transaction/checkout 404 - 38.613 ms - message: Not found, level=error
+2021-01-04T22:36:49.625Z - error: ::1 - POST /v1/transactions/checkout 500 - 1112.222 ms - message: stripeProduct is not defined message=::1 - POST /v1/transactions/checkout 500 - 1112.222 ms - message: stripeProduct is not defined, level=error
+2021-01-04T22:37:38.399Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T22:37:40.773Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T22:37:48.377Z - error: ::1 - POST /v1/transactions/checkout 500 - 1320.401 ms - message: Invalid integer: NaN message=::1 - POST /v1/transactions/checkout 500 - 1320.401 ms - message: Invalid integer: NaN, level=error
+2021-01-04T22:41:46.004Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T22:41:48.368Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T22:41:54.707Z - error: ::1 - POST /v1/transactions/checkout 500 - 1249.236 ms - message: Invalid integer: NaN message=::1 - POST /v1/transactions/checkout 500 - 1249.236 ms - message: Invalid integer: NaN, level=error
+2021-01-04T22:44:39.629Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T22:44:42.016Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T22:44:47.492Z - error: ::1 - POST /v1/transactions/checkout 500 - 1630.784 ms - message: Invalid integer: NaN message=::1 - POST /v1/transactions/checkout 500 - 1630.784 ms - message: Invalid integer: NaN, level=error
+2021-01-04T22:48:11.954Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T22:48:14.263Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T22:48:52.754Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T22:48:55.075Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T22:49:02.162Z - error: Error: The `line_items` parameter is required in payment mode.
+2021-01-04T22:49:07.585Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T22:49:09.931Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T22:50:06.671Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T22:50:09.008Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T22:50:11.138Z - error: ::1 - POST /v1/transactions/checkout 500 - 1449.603 ms - message: The `line_items` parameter is required in payment mode. message=::1 - POST /v1/transactions/checkout 500 - 1449.603 ms - message: The `line_items` parameter is required in payment mode., level=error
+2021-01-04T22:55:56.637Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T22:55:58.986Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T22:56:04.488Z - info: ::1 - POST /v1/transactions/checkout 200 - 1825.290 ms message=::1 - POST /v1/transactions/checkout 200 - 1825.290 ms, level=info
+2021-01-04T23:06:46.664Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T23:06:48.970Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T23:35:05.551Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T23:35:07.856Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T23:36:50.594Z - error: ::1 - POST /v1/transactions/checkout 500 - 884.201 ms - message: You did not provide an API key. You need to provide your API key in the Authorization header, using Bearer auth (e.g. 'Authorization: Bearer YOUR_SECRET_KEY'). See https://stripe.com/docs/api#authentication for details, or we can help at https://support.stripe.com/. message=::1 - POST /v1/transactions/checkout 500 - 884.201 ms - message: You did not provide an API key. You need to provide your API key in the Authorization header, using Bearer auth (e.g. 'Authorization: Bearer YOUR_SECRET_KEY'). See https://stripe.com/docs/api#authentication for details, or we can help at https://support.stripe.com/., level=error
+2021-01-04T23:37:17.025Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T23:37:19.393Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T23:37:53.095Z - info: ::1 - POST /v1/transactions/checkout 200 - 1543.674 ms message=::1 - POST /v1/transactions/checkout 200 - 1543.674 ms, level=info
+2021-01-04T23:57:00.064Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-04T23:57:02.374Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-04T23:57:12.396Z - info: ::1 - POST /v1/transactions/checkout 200 - 1433.784 ms message=::1 - POST /v1/transactions/checkout 200 - 1433.784 ms, level=info
+2021-01-05T16:44:31.956Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T16:44:34.360Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T16:45:08.839Z - error: ::1 - POST /v1/transactions/checkout 500 - 27.618 ms - message: Cannot read property 'createCheckout' of undefined message=::1 - POST /v1/transactions/checkout 500 - 27.618 ms - message: Cannot read property 'createCheckout' of undefined, level=error
+2021-01-05T16:45:52.989Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T16:45:55.296Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T16:46:02.370Z - info: ::1 - POST /v1/transactions/checkout 200 - 1266.018 ms message=::1 - POST /v1/transactions/checkout 200 - 1266.018 ms, level=info
+2021-01-05T16:47:12.014Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T16:47:14.323Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T16:47:16.092Z - info: ::1 - POST /v1/transactions/checkout 200 - 1098.571 ms message=::1 - POST /v1/transactions/checkout 200 - 1098.571 ms, level=info
+2021-01-05T16:48:08.390Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T16:48:10.688Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T16:48:10.853Z - error: ::1 - POST /v1/transactions/checkout 500 - 777.971 ms - message: Received unknown parameter: line_items[0][metadata] message=::1 - POST /v1/transactions/checkout 500 - 777.971 ms - message: Received unknown parameter: line_items[0][metadata], level=error
+2021-01-05T16:52:48.187Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T16:52:50.496Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T16:52:54.660Z - info: ::1 - POST /v1/transactions/checkout 200 - 1173.570 ms message=::1 - POST /v1/transactions/checkout 200 - 1173.570 ms, level=info
+2021-01-05T21:57:00.584Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T21:57:03.006Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:00:30.205Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:00:32.517Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:01:26.065Z - info: ::1 - POST /v1/transactions/webhook-payment-made 200 - 51.549 ms message=::1 - POST /v1/transactions/webhook-payment-made 200 - 51.549 ms, level=info
+2021-01-05T22:01:26.397Z - error: SequelizeDatabaseError: Unknown column 'user.uuid' in 'where clause'
+2021-01-05T22:01:31.001Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:01:33.318Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:02:38.714Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:02:40.942Z - info: ::1 - POST /v1/transactions/webhook-payment-made 200 - 29.790 ms message=::1 - POST /v1/transactions/webhook-payment-made 200 - 29.790 ms, level=info
+2021-01-05T22:02:41.047Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:02:41.074Z - error: TypeError: transaction.save is not a function
+2021-01-05T22:02:43.484Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:02:45.786Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:02:57.327Z - info: ::1 - POST /v1/transactions/webhook-payment-made 200 - 21.017 ms message=::1 - POST /v1/transactions/webhook-payment-made 200 - 21.017 ms, level=info
+2021-01-05T22:02:57.651Z - error: TypeError: transaction.save is not a function
+2021-01-05T22:02:59.820Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:03:02.120Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:03:06.958Z - info: ::1 - POST /v1/transactions/webhook-payment-made 200 - 26.262 ms message=::1 - POST /v1/transactions/webhook-payment-made 200 - 26.262 ms, level=info
+2021-01-05T22:03:07.094Z - error: TypeError: transaction.save is not a function
+2021-01-05T22:03:09.372Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:03:11.678Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:06:26.471Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:06:28.797Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:06:35.495Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:06:37.844Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:06:39.942Z - info: ::1 - POST /v1/transactions/webhook-payment-made 200 - 31.481 ms message=::1 - POST /v1/transactions/webhook-payment-made 200 - 31.481 ms, level=info
+2021-01-05T22:06:40.091Z - error: TypeError: this.build(...).save is not a function
+2021-01-05T22:06:42.402Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:06:44.719Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:09:28.701Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:09:31.013Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:09:33.027Z - info: ::1 - POST /v1/transactions/webhook-payment-made 200 - 34.036 ms message=::1 - POST /v1/transactions/webhook-payment-made 200 - 34.036 ms, level=info
+2021-01-05T22:09:33.174Z - error: TypeError: transaction.save is not a function
+2021-01-05T22:09:35.460Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:09:37.774Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:10:47.038Z - info: ::1 - PUT /v1/items/1 200 - 452.916 ms message=::1 - PUT /v1/items/1 200 - 452.916 ms, level=info
+2021-01-05T22:12:43.183Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:12:45.310Z - info: ::1 - PUT /v1/items/1 200 - 84.974 ms message=::1 - PUT /v1/items/1 200 - 84.974 ms, level=info
+2021-01-05T22:12:45.493Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:13:39.893Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:13:42.206Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:13:42.312Z - info: ::1 - POST /v1/transactions/webhook-payment-made 200 - 37.254 ms message=::1 - POST /v1/transactions/webhook-payment-made 200 - 37.254 ms, level=info
+2021-01-05T22:13:42.457Z - error: TypeError: transaction.save is not a function
+2021-01-05T22:13:45.219Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:13:47.549Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:14:13.980Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:14:16.287Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:14:16.559Z - info: ::1 - POST /v1/transactions/webhook-payment-made 200 - 29.101 ms message=::1 - POST /v1/transactions/webhook-payment-made 200 - 29.101 ms, level=info
+2021-01-05T22:14:16.693Z - error: TypeError: transaction.save is not a function
+2021-01-05T22:14:19.165Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:14:21.490Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:15:45.798Z - info: ::1 - PUT /v1/transactions/1 200 - 402.268 ms message=::1 - PUT /v1/transactions/1 200 - 402.268 ms, level=info
+2021-01-05T22:16:52.102Z - info: ::1 - POST /v1/transactions/webhook-payment-made 200 - 4.670 ms message=::1 - POST /v1/transactions/webhook-payment-made 200 - 4.670 ms, level=info
+2021-01-05T22:16:52.408Z - error: TypeError: transaction.save is not a function
+2021-01-05T22:16:55.327Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-05T22:16:57.628Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-05T22:16:58.301Z - info: ::1 - POST /v1/transactions/webhook-payment-made 200 - 27.769 ms message=::1 - POST /v1/transactions/webhook-payment-made 200 - 27.769 ms, level=info
+2021-01-06T13:02:25.524Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:02:28.017Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:02:48.538Z - info: ::1 - GET /v1/items/1 200 - 358.318 ms message=::1 - GET /v1/items/1 200 - 358.318 ms, level=info
+2021-01-06T13:06:15.964Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:06:18.384Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:06:19.579Z - info: ::1 - GET /v1/items/1 200 - 169.042 ms message=::1 - GET /v1/items/1 200 - 169.042 ms, level=info
+2021-01-06T13:06:36.308Z - error: ::1 - GET /v1/items/ 500 - 238.610 ms - message: Unknown column 'tags.productId' in 'field list' message=::1 - GET /v1/items/ 500 - 238.610 ms - message: Unknown column 'tags.productId' in 'field list', level=error
+2021-01-06T13:06:39.412Z - error: ::1 - GET /v1/items 500 - 101.498 ms - message: Unknown column 'tags.productId' in 'field list' message=::1 - GET /v1/items 500 - 101.498 ms - message: Unknown column 'tags.productId' in 'field list', level=error
+2021-01-06T13:07:43.401Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:07:45.715Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:07:46.720Z - info: ::1 - GET /v1/items 200 - 362.461 ms message=::1 - GET /v1/items 200 - 362.461 ms, level=info
+2021-01-06T13:11:31.202Z - info: ::1 - GET /v1/items 200 - 932.048 ms message=::1 - GET /v1/items 200 - 932.048 ms, level=info
+2021-01-06T13:11:41.797Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:11:44.142Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:11:44.527Z - error: ::1 - GET /v1/items 500 - 50.832 ms - message: ref_item_tag is not defined message=::1 - GET /v1/items 500 - 50.832 ms - message: ref_item_tag is not defined, level=error
+2021-01-06T13:12:03.793Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:12:06.132Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:12:07.328Z - info: ::1 - GET /v1/items 200 - 452.371 ms message=::1 - GET /v1/items 200 - 452.371 ms, level=info
+2021-01-06T13:13:19.691Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:13:26.351Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:13:28.689Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:13:29.609Z - info: ::1 - GET /v1/items 200 - 398.392 ms message=::1 - GET /v1/items 200 - 398.392 ms, level=info
+2021-01-06T13:31:10.616Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:31:12.958Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:31:14.124Z - error: ::1 - GET /v1/items 500 - 133.668 ms - message: Unknown column 'tags->ref_item_tag.text' in 'on clause' message=::1 - GET /v1/items 500 - 133.668 ms - message: Unknown column 'tags->ref_item_tag.text' in 'on clause', level=error
+2021-01-06T13:31:49.946Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:31:52.188Z - info: ::1 - GET /v1/items 200 - 200.500 ms message=::1 - GET /v1/items 200 - 200.500 ms, level=info
+2021-01-06T13:31:52.259Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:34:54.759Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:34:57.114Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:34:57.565Z - info: ::1 - GET /v1/items 200 - 193.613 ms message=::1 - GET /v1/items 200 - 193.613 ms, level=info
+2021-01-06T13:35:34.483Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:35:36.777Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:35:37.623Z - info: ::1 - GET /v1/items 200 - 194.019 ms message=::1 - GET /v1/items 200 - 194.019 ms, level=info
+2021-01-06T13:38:21.233Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:38:23.576Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:38:45.939Z - info: ::1 - GET /v1/items 200 - 462.674 ms message=::1 - GET /v1/items 200 - 462.674 ms, level=info
+2021-01-06T13:39:26.944Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:39:29.259Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:39:33.633Z - info: ::1 - GET /v1/items 200 - 284.414 ms message=::1 - GET /v1/items 200 - 284.414 ms, level=info
+2021-01-06T13:40:47.160Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:40:49.486Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:40:50.960Z - info: ::1 - GET /v1/items 200 - 262.861 ms message=::1 - GET /v1/items 200 - 262.861 ms, level=info
+2021-01-06T13:41:28.265Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T13:41:30.655Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T13:41:30.788Z - info: ::1 - GET /v1/items 200 - 208.665 ms message=::1 - GET /v1/items 200 - 208.665 ms, level=info
+2021-01-06T14:02:38.857Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T14:02:41.239Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T14:05:38.992Z - info: ::1 - GET /v1/items 200 - 582.977 ms message=::1 - GET /v1/items 200 - 582.977 ms, level=info
+2021-01-06T14:10:24.689Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T14:10:27.014Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T14:10:27.393Z - error: ::1 - GET /v1/items/tag/hardalc 404 - 47.784 ms - message: Not found message=::1 - GET /v1/items/tag/hardalc 404 - 47.784 ms - message: Not found, level=error
+2021-01-06T14:10:43.503Z - error: ::1 - GET /v1/items/fit-tag/hardalc 500 - 269.099 ms - message: Unknown column 'tag.tag' in 'on clause' message=::1 - GET /v1/items/fit-tag/hardalc 500 - 269.099 ms - message: Unknown column 'tag.tag' in 'on clause', level=error
+2021-01-06T14:11:15.650Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T14:11:17.992Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T14:11:18.153Z - info: ::1 - GET /v1/items/fit-tag/hardalc 200 - 123.963 ms message=::1 - GET /v1/items/fit-tag/hardalc 200 - 123.963 ms, level=info
+2021-01-06T14:11:30.566Z - info: ::1 - GET /v1/items/fit-tag/keinmatch 200 - 254.728 ms message=::1 - GET /v1/items/fit-tag/keinmatch 200 - 254.728 ms, level=info
+2021-01-06T14:11:46.138Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T14:11:48.482Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T14:11:50.977Z - info: ::1 - GET /v1/items/fit-tag/keinmatch 200 - 124.030 ms message=::1 - GET /v1/items/fit-tag/keinmatch 200 - 124.030 ms, level=info
+2021-01-06T14:11:56.058Z - info: ::1 - GET /v1/items/fit-tag/bier 200 - 139.093 ms message=::1 - GET /v1/items/fit-tag/bier 200 - 139.093 ms, level=info
+2021-01-06T15:29:07.116Z - info: ::1 - GET /v1/items/fit-tag/bier 200 - 357.995 ms message=::1 - GET /v1/items/fit-tag/bier 200 - 357.995 ms, level=info
+2021-01-06T15:29:15.443Z - info: ::1 - GET /v1/items/fit-tag/skittles 200 - 74.340 ms message=::1 - GET /v1/items/fit-tag/skittles 200 - 74.340 ms, level=info
+2021-01-06T15:29:32.016Z - info: ::1 - GET /v1/items/fit-tag/haribo 200 - 271.127 ms message=::1 - GET /v1/items/fit-tag/haribo 200 - 271.127 ms, level=info
+2021-01-06T15:29:39.964Z - info: ::1 - GET /v1/items/fit-tag/gummibaerchen 200 - 87.878 ms message=::1 - GET /v1/items/fit-tag/gummibaerchen 200 - 87.878 ms, level=info
+2021-01-06T15:37:22.017Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T15:37:24.402Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T15:37:36.978Z - error: ::1 - GET /v1/items/fit-tag/gummibaerchen 500 - 30.565 ms - message: tag is associated to item using an alias. You've included an alias (matchedTags), but it does not match the alias(es) defined in your association (tags). message=::1 - GET /v1/items/fit-tag/gummibaerchen 500 - 30.565 ms - message: tag is associated to item using an alias. You've included an alias (matchedTags), but it does not match the alias(es) defined in your association (tags)., level=error
+2021-01-06T15:38:23.600Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T15:38:25.912Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T15:38:30.904Z - info: ::1 - GET /v1/items/fit-tag/gummibaerchen 200 - 165.502 ms message=::1 - GET /v1/items/fit-tag/gummibaerchen 200 - 165.502 ms, level=info
+2021-01-06T23:23:58.088Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-06T23:24:00.485Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
+2021-01-06T23:24:08.514Z - info: ::1 - GET /v1/items/fit-tag/gummibaerchen 200 - 179.760 ms message=::1 - GET /v1/items/fit-tag/gummibaerchen 200 - 179.760 ms, level=info
+2021-01-09T14:58:37.335Z - info: Checking database connection... message=Checking database connection..., level=info
+2021-01-09T14:58:39.673Z - warn: Unable to connect to email server. Make sure you have configured the SMTP options in .env message=Unable to connect to email server. Make sure you have configured the SMTP options in .env, level=warn
